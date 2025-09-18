@@ -40,5 +40,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRafaelSanches&layout=compact&theme=radical)  
 
 ## 🌐 Onde me encontrar  
-- 💼 [LinkedIn](www.linkedin.com/in/joão-rafael-sanches-e-dantas)  ](https://www.linkedin.com/in/jo%C3%A3o-rafael-sanches-e-dantas)
+- 💼 [LinkedIn(www.linkedin.com/in/joão-rafael-sanches-e-dantas)  ](https://www.linkedin.com/in/jo%C3%A3o-rafael-sanches-e-dantas)]
 - 📧 **jsanchesedantas@email.com**  
