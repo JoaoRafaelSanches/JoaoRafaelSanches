@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Rafael!  
 
-<!--
-**JoaoRafaelSanches/JoaoRafaelSanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web & Mobile | 📱 Estudante de T.I | 📚 Sempre aprendendo novas tecnologias 
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim  
+- 🧑‍🎓 Tenho **20 anos** e sou estudante de **T.I focado em programação web e mobile**  
+- 🌱 Atualmente estudando e criando projetos com **React, React Native, Node.js e Next.js**  
+- ⚡ Curto desenvolver soluções criativas que ajudem pessoas no dia a dia  
+- 💡 Sempre buscando aprender novas tecnologias e evoluir como dev  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas  
+- **Frontend:** HTML, CSS, JavaScript, React, React Native  
+- **Backend:** Node.js
+- **Banco de Dados:** MySQL 
+- **Outros:** GitHub, Insomnia
+
+## 📈 Estatísticas do GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoRafaelSanches&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRafaelSanches&layout=compact&theme=radical)  
+
+## 🌐 Onde me encontrar  
+- 💼 [LinkedIn](https://www.linkedin.com/in/JoaoRafaelSanches)  
+- 📧 **jsanchesedantas@email.com**  
+
