@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Rafael!  
+#  Olá, eu sou o João Rafael!  
 
 💻 Desenvolvedor Web & Mobile | 📱 Estudante de T.I | 📚 Sempre aprendendo novas tecnologias 
 
