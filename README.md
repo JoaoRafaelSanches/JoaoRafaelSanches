@@ -3,7 +3,7 @@
 💻 Desenvolvedor Web & Mobile | 📱 Estudante de T.I | 📚 Sempre aprendendo novas tecnologias 
 
 ## 🚀 Sobre mim  
-- 🧑‍🎓 Tenho **20 anos** e sou estudante de **T.I focado em programação web e mobile**  
+- 🧑‍🎓 Tenho **21 anos** e sou estudante de **T.I focado em programação web e mobile**  
 - 🌱 Atualmente estudando e criando projetos com **React, React Native, Node.js e Next.js**  
 - ⚡ Curto desenvolver soluções criativas que ajudem pessoas no dia a dia  
 - 💡 Sempre buscando aprender novas tecnologias e evoluir como dev  
